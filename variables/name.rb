@@ -1,7 +1,6 @@
-puts "What is your name?"
-name = gets.chomp
-puts "Hello, #{name}, welcome to Ruby!"
+puts "What is your first name?"
+firstname = gets.chomp
+puts "What is your last name?"
+lastname = gets.chomp
 
-10.times do
-  puts "#{name}"
-end
+puts firstname + lastname
