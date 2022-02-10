@@ -1,0 +1,5 @@
+my_array = [2019, 1991, 1983, 1991]
+puts my_array[0]
+puts my_array[1]
+puts my_array[2]
+puts my_array[3]
